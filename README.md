@@ -16,7 +16,3 @@ OPA, TUDO BEM ?
  
 <div> 
   <a href="https://instagram.com/sousa.da.regx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=blue" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/Gabrieltkn/Gabrieltkn/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
