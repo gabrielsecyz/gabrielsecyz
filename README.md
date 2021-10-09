@@ -13,6 +13,5 @@ OPA, TUDO BEM ?
 </div>
   
   ##
- 
 <div> 
-  <a href="https://instagram.com/sousa.da.regx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=blue" target="_blank"></a>
+  <a href="https://instagram.com/sousa.da.regx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=red" target="_blank"></a>
