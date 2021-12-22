@@ -6,12 +6,12 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> How are your software engineers doing? 👨‍💻:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350">
  </abc>
 </h2>  
   <div>
   <a href="https://github.com/Gabrieltkn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrieltkn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img left="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrieltkn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieltkn&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
