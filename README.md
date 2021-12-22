@@ -11,7 +11,7 @@
 </h2>  
    <br>
 <div style="display: inline_block"><br>
- 
+  <a href="https://github.com/Gabrieltkn">
   <img align="center" alt="Gabriel-python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Gabriel-react" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Gabriel-Csharp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
