@@ -1,12 +1,12 @@
-<br> HELLO,WELCOME TO MY GITHUB <br>
+ ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" />𝙝𝙚𝙡𝙡𝙤 𝙢𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙜𝙖𝙗𝙧𝙞𝙚𝙡 𝙞 𝙖𝙢 𝙖 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧
 <div align="center">
   
   <h2 align="right">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> hello my software engineers :computer:<br>
+  <br> How are your software engineers doing? 👨‍💻:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">
  </abc>
 </h2>  
   <div>
