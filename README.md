@@ -1,10 +1,10 @@
-<h1> hello welcome to my GitHub </h1>
+<br> HELLO,WELCOME TO MY GITHUB <br>
 <div align="center">
   
-  <h2 align="left">
+  <h2 align="right">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Siv Ram Shastri, Full Stack Web Developer :computer:<br>
+  <br> hello my software engineers :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
