@@ -1,4 +1,4 @@
- ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> 𝙝𝙚𝙡𝙡𝙤 𝙢𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙜𝙖𝙗𝙧𝙞𝙚𝙡 𝙞 𝙖𝙢 𝙖 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧
+ ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> 𝙝𝙚𝙡𝙡𝙤, 𝙢𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙜𝙖𝙗𝙧𝙞𝙚𝙡 𝙞 𝙖𝙢 𝙖 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧
 <div align="center">
   
   <h2 align="right">
