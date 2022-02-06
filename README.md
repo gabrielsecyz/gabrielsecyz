@@ -24,6 +24,8 @@
   skills = { "hacker", "full stack programmer", "computer graphics", "3D editor" ; }
   
      Master = "[Castilho - 3 Da Madrugada"; "Harry Potter"; "Ler Livros Tecnologicos";]
+
+  
   
   ```
 <div style="display: inline_block"><br>
