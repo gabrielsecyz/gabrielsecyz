@@ -1,10 +1,10 @@
- ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> 𝐀 𝐌𝐞𝐫𝐞 𝐁𝐥𝐚𝐜𝐤 𝐡𝐚𝐭
+  ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> A mere Black Hat 
 <div align="center">
-  
+ 
   <h2 align="right">
  <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐛𝐞𝐢𝐧𝐠 𝐡𝐚𝐜𝐤𝐞𝐝 𝐛𝐮𝐭 𝐰𝐡𝐨 𝐫𝐞𝐚𝐥𝐥𝐲 𝐜𝐚𝐫𝐞𝐬? 👨‍💻:<br>
+   
+  <br> systems being hacked, but who really cares? 👨‍💻 <br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350">
  </abc>
@@ -12,6 +12,8 @@
    <br>
 <div style="display: inline_block"><br>
   <a href="https://github.com/Gabrieltkn">
+                  <h2> The languages ​​of a hacker; <h2>
+   
   <img align="center" alt="Gabriel-python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Gabriel-react" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Gabriel-Csharp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
