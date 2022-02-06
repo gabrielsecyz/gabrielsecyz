@@ -11,17 +11,19 @@
 </h2>  
   
    <br>
-  
-  ```javascript
+ 
+```javascript
   const Sousa = {
          thesis = "Cheating is not a matter of giving a blow, but of not having character"
+  
                motivation = ['Technology is not for those who like it, but for those who have a gift']
        },
      
      truth = "hacking a system is not as easy as it seems."
+  
   skills = { "hacker", "full stack programmer", "computer graphics", "3D editor" ; }
   
-     I never get sick = "[Castilho - 3 Da Madrugada"; "Harry Potter"; "Ler Livros Tecnologicos";]
+     Master = "[Castilho - 3 Da Madrugada"; "Harry Potter"; "Ler Livros Tecnologicos";]
   
   ```
 <div style="display: inline_block"><br>
