@@ -1,10 +1,10 @@
- ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> 𝙃𝙞 𝙄'𝙢 𝙂𝙖𝙗𝙧𝙞𝙚𝙡, 𝘾𝙮𝙗𝙚𝙧 ​​𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙨𝙩
+ ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> 𝐀 𝐌𝐞𝐫𝐞 𝐁𝐥𝐚𝐜𝐤 𝐡𝐚𝐭
 <div align="center">
   
   <h2 align="right">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> How are your human beings? 👨‍💻:<br>
+  <br> 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐛𝐞𝐢𝐧𝐠 𝐡𝐚𝐜𝐤𝐞𝐝 𝐛𝐮𝐭 𝐰𝐡𝐨 𝐫𝐞𝐚𝐥𝐥𝐲 𝐜𝐚𝐫𝐞𝐬? 👨‍💻:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350">
  </abc>
