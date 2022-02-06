@@ -29,7 +29,7 @@
   
   ```
 <div style="display: inline_block"><br>
-  <a href="https://github.com/Gabrieltkn">
+  <a href="https://github.com/SousaOfcyber">
                   <h2> The languages ​​of a hacker; <h2>
    
   <img align="center" alt="Gabriel-python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -47,8 +47,8 @@
    <br/><br/>
 
    <p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Gabrieltkn&theme=tokyonight&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SousaOfcyber&theme=tokyonight&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieltkn&theme=tokyonight&show_icons=true" />
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SousaOfcyber&theme=tokyonight&show_icons=true" />
 
 </p>
