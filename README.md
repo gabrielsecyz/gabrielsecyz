@@ -1,4 +1,4 @@
-  ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> A mere Black Hat 
+  ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> A mere cracker 
 <div align="center">
  
   <h2 align="right">
@@ -24,7 +24,7 @@
      
      Look that = "hacking a system is not as easy as it seems."
   
-  Experience = { "hacker", "full stack programmer", "computer graphics", "3D editor" ; }
+  Experience = { "cracker", "full stack programmer", "computer graphics", "3D editor" ; }
   
      Taste = "[Castilho - 3 Da Madrugada"; "Wiu - Cheirosa"; "Harry Potter"; "Ler livros tecnologicos";]
   
