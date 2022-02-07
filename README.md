@@ -11,23 +11,29 @@
 </h2>  
   
    <br>
+  
+  <div align="left">
  
 ```javascript
+  
   const Sousa = {
          thesis = "Cheating is not a matter of giving a blow, but of not having character"
   
-               motivation = ['Technology is not for those who like it, but for those who have a gift']
+               A begining = ['Technology is not for those who like it, but for those who have a gift']
        },
      
-     truth = "hacking a system is not as easy as it seems."
+     Look that = "hacking a system is not as easy as it seems."
   
-  skills = { "hacker", "full stack programmer", "computer graphics", "3D editor" ; }
+  Experience = { "hacker", "full stack programmer", "computer graphics", "3D editor" ; }
   
-     Master = "[Castilho - 3 Da Madrugada"; "Wiu - Cheirosa"; "Harry Potter"; "Ler Livros Tecnologicos";]
+     Taste = "[Castilho - 3 Da Madrugada"; "Wiu - Cheirosa"; "Harry Potter"; "Ler livros tecnologicos";]
+  
+      activity = {'Atualmente Lendo Engenharia Social e Estelionato Eletrônico'} {;
 
   
-  
   ```
+    
+  </div>
 <div style="display: inline_block"><br>
   <a href="https://github.com/SousaOfcyber">
                   <h2> The languages ​​of a hacker; <h2>
