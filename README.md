@@ -1,4 +1,8 @@
-  ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> A mere 𝐜𝐫𝐚𝐜𝐤𝐞𝐫
+<div align="center" >
+ 
+  <div>
+ 
+ ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> A mere 𝐜𝐫𝐚𝐜𝐤𝐞𝐫
 <div align="center">
  
   <h2 align="right">
