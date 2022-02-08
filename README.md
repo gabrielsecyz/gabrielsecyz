@@ -1,4 +1,4 @@
-  ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> A mere cracker 
+  ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> A mere 𝐜𝐫𝐚𝐜𝐤𝐞𝐫
 <div align="center">
  
   <h2 align="right">
@@ -24,7 +24,7 @@
      
      Look that = "hacking a system is not as easy as it seems."
   
-  Experience = { "cracker", "full stack programmer", "computer graphics", "3D editor" ; }
+  Experience = { "𝐜𝐫𝐚𝐜𝐤𝐞𝐫", "full stack programmer", "computer graphics", "3D editor" ; }
   
      Taste = "[Castilho - 3 Da Madrugada"; "Wiu - Cheirosa"; "Harry Potter"; "Ler livros tecnologicos";]
   
@@ -36,17 +36,9 @@
   </div>
 <div style="display: inline_block"><br>
   <a href="https://github.com/SousaOfcyber">
-                  <h2> The languages ​​of a hacker; <h2>
+                  <h2> python saves lives; <h2>
    
-  <img align="center" alt="Gabriel-python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="Gabriel-react" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Gabriel-Csharp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gabriel-php" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Gabriel-mysql" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-  <img align="center" alt="Gabriel-lua" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
-  <img align="center" alt="Gabriel-docker" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Gabriel-bash" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-  <img align="center" alt="Gabriel-c" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Sousa-python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
  <br>
 </div>
    
