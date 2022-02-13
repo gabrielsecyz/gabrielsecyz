@@ -2,13 +2,13 @@
  
   <div>
  
- ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> A mere 𝐜𝐫𝐚𝐜𝐤𝐞𝐫
+ ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Engenheiro de Software
 <div align="center">
  
   <h2 align="right">
  <abc>
    
-  <br> systems being hacked, but who really cares? 👨‍💻 <br>
+  <br> Nunca confie em extensões 🤦‍♂️<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350">
  </abc>
@@ -17,6 +17,8 @@
    <br>
   
   <div align="left">
+   
+   <div>
        
        
 ```javascript
@@ -27,18 +29,22 @@
                A begining = ['Technology is not for those who like it, but for those who have a gift']
        },
      
-     Look that = "hacking a system is not as easy as it seems."
+     Look that = `{"hacking a system is not as easy as it seems."}`
   
   Experience = { "Hacker", "full stack programmer", "computer graphics", "3D editor" ; }
   
-     Taste = "[Castilho - 3 Da Madrugada"; "Wiu - Cheirosa"; "Harry Potter"; "Ler livros tecnologicos";]
+     Taste = "[Castilho - 3 Da Madrugada"; ""; "Harry Potter"; "Ler livros tecnologicos";]
   
-      activity = {'Atualmente Lendo The Little Black Book  of  Computer Viruses'} {;
+      activity = {'Atualmente Lendo The Little Black Book  of  Computer Viruses'} 
+   
+       {;
     
     project = {""}
 
   
   ```
+    
+   </div>
     
   
 </div>
