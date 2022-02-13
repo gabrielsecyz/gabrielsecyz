@@ -29,7 +29,7 @@
      
      Look that = "hacking a system is not as easy as it seems."
   
-  Experience = { "𝐜𝐫𝐚𝐜𝐤𝐞𝐫", "full stack programmer", "computer graphics", "3D editor" ; }
+  Experience = { "Hacker", "full stack programmer", "computer graphics", "3D editor" ; }
   
      Taste = "[Castilho - 3 Da Madrugada"; "Wiu - Cheirosa"; "Harry Potter"; "Ler livros tecnologicos";]
   
@@ -45,7 +45,7 @@
   
   <br>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="1500">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="5000">
 
 <br>
   
