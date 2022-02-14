@@ -2,7 +2,7 @@
  
   <div>
  
- ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Engenheiro de Software
+ ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> system analyst
 <div align="center">
  
   <h2 align="right">
@@ -18,7 +18,7 @@
   
   <div align="left">
    
-   <div>
+
        
        
 ```javascript
@@ -31,23 +31,19 @@
      
      Look that = `{"hacking a system is not as easy as it seems."}`
   
-  Experience = { "Hacker", "full stack programmer", "computer graphics", "3D editor" ; }
+  Experience = { "Hacking", "system analyst", "computer graphics", "3D editor" ; }
   
-     Taste = "[Castilho - 3 Da Madrugada"; ""; "Harry Potter"; "Ler livros tecnologicos";]
+     Taste = "[Castilho - 3 Da Madrugada"; "Harry Potter"; "Ler livros tecnologicos";]
   
       activity = {'Atualmente Lendo The Little Black Book  of  Computer Viruses'} 
    
        {;
-    
+    egenheiro de software
     project = {""}
 
   
   ```
     
-   </div>
-    
-  
-</div>
   
   <br>
 
