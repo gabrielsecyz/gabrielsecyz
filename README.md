@@ -18,14 +18,21 @@
   <br>
   👨‍🏫 I intend to learn all javasript, but this requires calm. 
   
-  
+ 
  </h4>
  
  
   <h2 align="right">
     <img src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="Coder GIF" width="300">
-   <h4>
+  </h4>
+
     
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="80"/>
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="80"/>
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"/>
+ 
 <div align="center">
  
 <img reight="100em" src="https://github-readme-stats.vercel.app/api?username=gabrielthech&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
