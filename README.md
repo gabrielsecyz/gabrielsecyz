@@ -1,5 +1,7 @@
 <div align="center" >
  
+ <a href="https://https://github.com/gabrielthech">
+ 
  ## <img src="https://c.tenor.com/YaTahtedGloAAAAM/mario-pipe.gif" width="40px" /> Hello world, my name is Gabriel Lima <img src="https://c.tenor.com/YaTahtedGloAAAAM/mario-pipe.gif" width="40px" />
  
  <h4 align="left" >
@@ -20,19 +22,20 @@
   
  
  </h4>
- 
+
  
   <h2 align="right">
     <img src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="Coder GIF" width="300">
   </h4>
 
     
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="80"/>
+ <div style="display: inline_block"><br>
+    <img align="left" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     <img align="left" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="left" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   </div>
  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="80"/>
- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"/>
- 
+ <br></br>
 <div align="center">
  
 <img reight="100em" src="https://github-readme-stats.vercel.app/api?username=gabrielthech&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
