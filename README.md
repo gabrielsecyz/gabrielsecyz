@@ -28,4 +28,4 @@
     
 <div align="center">
  
-<img reight="100em" src="https://github-readme-stats.vercel.app/api?username=gabrieltech&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<img reight="100em" src="https://github-readme-stats.vercel.app/api?username=gabrielthech&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
