@@ -8,11 +8,11 @@
   
   ### informations
   
-  - 👨‍💻 programmer front-end
-  - 📚 studying more than 6 hours a day is the secret of so much knowledge lover of the pomodoro technique.
-  - 🛠 Spending most of the day coding is the only addiction I want to have !
-  - ✌ I'm not even a little bit.
-  - 🤦‍♂️ I hate liars.
+  - 👨‍💻 front end programmer
+  - 📚 studying more than 6 hours a day is the secret of so much knowledge
+  - 🛠 spending all day coding is the only addiction i want to have
+  - ✌ I'm not social at all
+  - 🔭 I think I have attention déficit
   - 👨‍🚀 i'm sure i like programming as much as everyone hates chris.
   - 💡 great curiosities result in great discoveries!
   
@@ -32,9 +32,10 @@
  </h4>
 
  
-  <h2 align="right">
-    <img src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="Coder GIF" width="300">
-  </h4>
+  <h2 align="left">
+    <img src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="Coder GIF" width="360">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielthech&layout=compact ">
+
 
     
  <div style="display: inline_block"><br>
