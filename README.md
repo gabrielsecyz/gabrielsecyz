@@ -12,7 +12,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="-_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </a>
-
   <a href="https://www.lua.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" alt="Lua" width="40" height="40" /> </a>
   <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Csharp" width="40" height="40"/> </a>
   <a href="https://docs.microsoft.com/cpp/?view=msvc-170" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus" width="40" height="40"/> </a>
@@ -24,4 +23,4 @@ _🧑 $ 14y_
 
 _📖 $ Studying Assembly_
 
-_⚡ $ Coffee_
+_⚡ $ Coffee ♥️_
