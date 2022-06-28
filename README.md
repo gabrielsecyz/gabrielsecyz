@@ -1,28 +1,66 @@
 ## Hi, welcome to my profile 👋🏼
-<br>
- 
-- 🍃 I'm Gabriel Lima, Back-End Developer (  );
+
+  <br>
+   const informations = { <img align="right" alt="logo-gabriel"  width="360" src="https://user-images.githubusercontent.com/92191800/173620239-488926cf-9aea-4fd7-bc39-3944c07068a1.png">
+   
+- 🍃 I'm Gabriel Lima, Back-End Developer (  ); 
 - 🌎 Brazil (  );
-- 🎯 Entusiast (  );
+- 🏡 Fortaleza - CE (  );
+- 👦🏼 14y (  );
+- 🎯 self-taught (  );
+- 📚Currently Studying CSharp (  );
 
-<br>
-</br>
-
-<img align="rigth" src="https://user-images.githubusercontent.com/92191800/173620239-488926cf-9aea-4fd7-bc39-3944c07068a1.png" width="400"/>
-
-<h2 align="left">:hammer_and_wrench: soft skills:</h2>
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.python.org/" target="-_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.lua.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" alt="Lua" width="40" height="40" /> </a>
-  <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Csharp" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/> </a>
+  } ;
   
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+  <br>
+  <br>
   
-_🧑 $ 14y_
+  <h2 align="center"> Soft Skills ⚔️ </h2>
+  
+  <br>
+  
+  <h3 align="center"> Front-End ✨</h3>
+  <div align="center">
+  <a href="https://developer.mozilla.org/docs/Web/HTML"> <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS"> <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </a>
+  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/"> <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> </a>
+ </div>
+ 
+ <h3 align="center"> Languages 🧱 </h3>
+ <div align="center">
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"> <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> </a>
+<a href="https://docs.python.org/3/"> <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> </a>
+<a href="https://www.php.net/docs.php"> <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> </a>
+ <a href="https://docs.microsoft.com/cpp/cpp/?view=msvc-170"> <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> </a>
+ <a href="https://www.lua.org/docs.html"> <img align="center"src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> </a>
+</div>
 
-_📖 $ Studying Assembly_
+ <h3 align="center"> Database 🛢️</h3>
+ <div align="center">
+ <a href="https://dev.mysql.com/doc/"> <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> </a>
+ <a href="https://www.mongodb.com/docs/"> <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> </a>
+ </div>
+ 
+ <h3 align="center"> Back-end 📂</h3>
+<div align="center">
+ <a href="https://nodejs.org/en/docs/"> <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> </a>
+</div>
 
-_⚡ $ I love coffee  ♥️_
+<h3 align="center"> DevOps 🐋 </h3>
+<div align="center">
+ <a href="https://www.ruby-lang.org/pt/documentation/"> <img align="center" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> </a>
+ </div>
+ 
+ <h3 align="center"> IDE 💻</h3>
+ <div align="center">
+ <a href="https://code.visualstudio.com/docs"> <img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </a>
+ <a href="https://docs.microsoft.com/isualstudio/windows/?view=vs-2022"> <img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> </a>
+ <a href="https://www.jetbrains.com/phpstorm/documentation/"> <img align="center" src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white"> </a>
+ <a href="https://www.sublimetext.com/docs/"> <img align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> </a>
+</div>
+
+<h3 align="center"> Contact me 📱</h3>
+ <div align="center">
+ <a href="https://mail.google.com/"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+  
+  sousaki.dev@gmail </a>
