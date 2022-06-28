@@ -2,7 +2,7 @@
 <br>
  
 - 🍃 I'm Gabriel Lima, Back-End Developer ( );
-- 🇧🇷  Brazil
+- 🇧🇷 Brazil
  
  
  <br>
