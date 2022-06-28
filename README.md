@@ -1,13 +1,14 @@
 <h2 align="left">
  <abc>
-  <br> Welcome to GitHub <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>Hi, welcome to my profile<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  </br>
   <br> I'm Gabriel Lima, Back-End Developer :computer:<br>
   <br>
     <img src="https://user-images.githubusercontent.com/92191800/173620239-488926cf-9aea-4fd7-bc39-3944c07068a1.png" width="400">
  </abc>
 </h2>
 
-<h2 align="left">:hammer_and_wrench: Technologies I use:</h2>
+<h2 align="left">:hammer_and_wrench: soft skills:</h2>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
