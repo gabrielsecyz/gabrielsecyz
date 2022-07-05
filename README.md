@@ -31,16 +31,15 @@
 <a href="https://developer.mozilla.org/docs/Web/JavaScript"> <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> </a>
 <a href="https://docs.python.org/3/"> <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> </a>
 <a href="https://www.php.net/docs.php"> <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> </a>
- <a href="https://docs.microsoft.com/cpp/cpp/?view=msvc-170"> <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> </a>
+ <a href="https://docs.microsoft.com/dotnet/csharp/"> <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> </a>
  <a href="https://www.lua.org/docs.html"> <img align="center"src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> </a>
 </div>
 
  <h3 align="center"> Database 🛢️</h3>
  <div align="center">
  <a href="https://dev.mysql.com/doc/"> <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> </a>
- <a href="https://www.mongodb.com/docs/"> <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> </a>
- </div>
- 
+<a href""> <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> </a>
+
  <h3 align="center"> Back-end 📂</h3>
 <div align="center">
  <a href="https://nodejs.org/en/docs/"> <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> </a>
