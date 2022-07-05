@@ -26,7 +26,7 @@
   <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/"> <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> </a>
  </div>
  
- <h3 align="center"> Languages 🧱 </h3>
+ <h3 align="center"> Languages 📂</h3>
  <div align="center">
 <a href="https://developer.mozilla.org/docs/Web/JavaScript"> <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> </a>
 <a href="https://docs.python.org/3/"> <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> </a>
@@ -40,7 +40,7 @@
  <a href="https://dev.mysql.com/doc/"> <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> </a>
 <a href""> <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> </a>
 
- <h3 align="center"> Back-end 📂</h3>
+ <h3 align="center"> Back-end 🧱 </h3>
 <div align="center">
  <a href="https://nodejs.org/en/docs/"> <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> </a>
 </div>
@@ -56,6 +56,4 @@
 
 <h3 align="center"> Contact me 📱</h3>
  <div align="center">
- <a href="https://mail.google.com/"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
-  
-  sousaki.dev@gmail </a>
+ <a href="mailto:secyz.dev@gmail.com "> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
