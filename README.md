@@ -46,18 +46,14 @@
  <a href="https://nodejs.org/en/docs/"> <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> </a>
 </div>
 
-<h3 align="center"> DevOps 🐋 </h3>
-<div align="center">
- <a href="https://www.ruby-lang.org/pt/documentation/"> <img align="center" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> </a>
- </div>
+
  
  <h3 align="center"> IDE 💻</h3>
  <div align="center">
  <a href="https://code.visualstudio.com/docs"> <img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> </a>
  <a href="https://docs.microsoft.com/isualstudio/windows/?view=vs-2022"> <img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> </a>
  <a href="https://www.jetbrains.com/phpstorm/documentation/"> <img align="center" src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white"> </a>
- <a href="https://www.sublimetext.com/docs/"> <img align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> </a>
-</div>
+
 
 <h3 align="center"> Contact me 📱</h3>
  <div align="center">
