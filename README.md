@@ -8,7 +8,7 @@
 - 🏡 Fortaleza - CE (  );
 - 👦🏼 14y (  );
 - 🎯 self-taught (  );
-- 📚Currently Studying CSharp (  );
+- 📚Currently Studying Perl (  );
 
   } ;
   
@@ -35,7 +35,7 @@
  <a href="https://www.lua.org/docs.html"> <img align="center"src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> </a>
 </div>
 
- <h3 align="center"> Database 🛢️</h3>
+ <h3 align="center"> Database 🎲 </h3>
  <div align="center">
  <a href="https://dev.mysql.com/doc/"> <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> </a>
 <a href""> <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> </a>
