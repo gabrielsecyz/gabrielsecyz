@@ -3,7 +3,7 @@
 </div>
   <br>
   
-  - 👦🏻 My name is Gabriel, I speak a little of 3 languages 
+  - 👦🏻 My name is Gabriel, I speak a little of 3 languages 🇺🇲/🇫🇷/🇪🇸
   
   
   
