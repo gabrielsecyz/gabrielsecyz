@@ -6,7 +6,10 @@
   - ![br](https://user-images.githubusercontent.com/73851736/157129661-1a16046a-cbd1-4ef3-ba5b-162b8e39576e.png)  Fortaleza - CE ;
   - 🎯 self-taught ;
   - 📚 I learned through free courses ;
-  - 🥀 developer back-end ;
+  - 🥀 backend developer ;
   - 🍃 languages: **Javascript**, **PHP**, **Python** **C/C#**, **Lua** ;
   - 🎲 database: **MongoDB**, **Mysql/Sqlite** ;
   - 📂 others: **Node.js** ;
+
+```javascript
+```
