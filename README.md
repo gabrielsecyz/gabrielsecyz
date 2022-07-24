@@ -1,19 +1,26 @@
-## Hi, welcome to my profile 👋🏼
-
+<div align="center">
+<h2> Hi, welcome to my profile 👋🏼</h2>
+</div>
   <br>
-   const informations = { <img align="right" alt="logo-gabriel"  width="360" src="https://user-images.githubusercontent.com/92191800/173620239-488926cf-9aea-4fd7-bc39-3944c07068a1.png">
-   
-- 🍃 I'm Gabriel Lima, Back-End Developer (  ); 
-- 🌎 Brazil (  );
-- 🏡 Fortaleza - CE (  );
-- 👦🏼 14y (  );
-- 🎯 self-taught (  );
-- 📚Currently Studying Perl (  );
-
-  } ;
   
-  <br>
-  <br>
+  - 👦🏻 My name is Gabriel, I speak a little of 3 languages 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   <h2 align="center"> Soft Skills ⚔️ </h2>
   
@@ -57,3 +64,10 @@
 <h3 align="center"> Contact me 📱</h3>
  <div align="center">
  <a href="mailto:secyz.dev@gmail.com "> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   
+   
+   
+   
+   
+   
+   <img align="right" alt="logo-gabriel"  width="1" src="https://user-images.githubusercontent.com/92191800/173620239-488926cf-9aea-4fd7-bc39-3944c07068a1.png">
