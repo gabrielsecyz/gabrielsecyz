@@ -17,5 +17,5 @@ const skills = () => {
     const databases = ['MySql', 'MongoDB', 'Sqlite'];
 
     const others = ['Node.js', 'Discord.js', 'Discord.py', 'Lavarel'];  
-};
+ };
 ```
