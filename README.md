@@ -7,9 +7,15 @@
   - 🎯 self-taught ;
   - 📚 I learned through free courses ;
   - 🥀 backend developer ;
-  - 🍃 languages: **Javascript**, **PHP**, **Python** **C/C#**, **Lua** ;
-  - 🎲 database: **MongoDB**, **Mysql/Sqlite** ;
-  - 📂 others: **Node.js** ;
-
+  
+  
 ```javascript
+const skills = () => {
+
+    const languages = ['Javascript', 'Python', 'PHP', 'C/C#', 'Lua', 'Java', 'Flutter'];
+
+    const databases = ['MySql', 'MongoDB', 'Sqlite'];
+
+    const others = ['Node.js', 'Discord.js', 'Discord.py', 'Lavarel'];  
+};
 ```
