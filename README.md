@@ -6,7 +6,7 @@
   - ![br](https://user-images.githubusercontent.com/73851736/157129661-1a16046a-cbd1-4ef3-ba5b-162b8e39576e.png)  Fortaleza - CE ;
   - 🎯 self-taught ;
   - 📚 I learned through free courses ;
-  - 🎲 this week I'm doing projects with python ;
+  - 🎲 I'm currently learning assembly ;
   - 🥀 backend developer ;
   
   
