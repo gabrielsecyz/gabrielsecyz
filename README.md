@@ -31,3 +31,8 @@
 <p align="center">
   <img src="https://github.com/secyz/secyz/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+## 
+<img src="https://github-readme-stats.vercel.app/api?username=secyz&theme=radicalk&show_icons=true"/>
+
+<!--  radical --!>
