@@ -1,28 +1,22 @@
-## Hi, welcome to my profile 👋🏼</h2>
-  <br>
-  
-  - 👦🏻 My name is Gabriel, I speak a little of 4 languages  ![br](https://user-images.githubusercontent.com/73851736/157129661-1a16046a-cbd1-4ef3-ba5b-162b8e39576e.png)ㅤ![gb](https://user-images.githubusercontent.com/73851736/157130757-be576333-5eab-4482-9717-6f7a4e802c7a.png)ㅤ![es](https://user-images.githubusercontent.com/73851736/157130782-6dd2d35a-6d97-4373-ad80-83abd8d0149a.png)ㅤ![fr](https://user-images.githubusercontent.com/73851736/157132792-c133858f-fb51-4980-99b2-e9b1c7d25748.png)  ;
-  - 💫 14y ;
-  - ![br](https://user-images.githubusercontent.com/73851736/157129661-1a16046a-cbd1-4ef3-ba5b-162b8e39576e.png)  Fortaleza - CE ;
-  - 🎯 self-taught ;
-  - 📚 I learned through free courses ;
-  - 🎲 I'm currently learning assembly ;
-  - 🥀 backend developer ;
+<a href="https://github.com/secyz">
+<img align="center" src="https://user-images.githubusercontent.com/92191800/181153452-16a8ed27-ac3d-41e4-9939-61fa9d7e6176.gif">
   
   
-```javascript
-const skills = () => {
-
-    const languages = ['Javascript', 'Python', 'PHP', 'C/C#', 'Lua', 'Java'];
-
-    const databases = ['MySql', 'MongoDB', 'Sqlite'];
-
-    const others = ['Node.js', 'Discord.js', 'Discord.py', 'Lavarel'];  
- };
-```
-
-<div align="center">
-  <a href="https://github.com/secyz">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=secyz&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secyz&layout=compact&langs_count=7&theme=aura"/>
-</div>
+  <h3 align="center">Atualmente estou me especializando em:</h3>
+  
+ 
+  
+  <a href=""> <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+  <a href=""><img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+  <a href=""><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> </a>
+  <a href=""><img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+  <a href=""><img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
+  <a href=""><img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
+  <a href=""><img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+  <a href=""><img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+  <a href=""><img align="center" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
+  <a href=""><img align="center" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
+  <a href=""><img align="center" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
+  <a href=""><img align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href=""><img align="center" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+  <a href=""><img align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a
