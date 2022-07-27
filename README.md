@@ -33,6 +33,7 @@
 </p>
 
 ## 
-<img src="https://github-readme-stats.vercel.app/api?username=secyz&theme=radicalk&show_icons=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=secyz&theme=radical&show_icons=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secyz&layout=compact&langs_count=7&theme=radical"/>
 
 <!--  radical --!>
