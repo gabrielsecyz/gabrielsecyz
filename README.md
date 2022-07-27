@@ -18,18 +18,14 @@
   
   <a href=""><img align="center" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></a>
   <a href=""><img align="center" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></a>
-  
+      
   <a href=""><img align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <a href=""><img align="center" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
   <a href=""><img align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
   
   
 
-  <div align="center">
-  <h2>contact me:</h3>
-  <a href="mail:to secyz.developer@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-    </div>
-  
+ 
 <p align="center">
   <img src="https://github.com/secyz/secyz/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
@@ -40,4 +36,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=secyz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secyz&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<!--  radical --!>
+  
+  ##
+  
+   <div align="center">
+  <h2>contact me:</h3>
+  <a href="mail:to secyz.developer@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+    </div>
