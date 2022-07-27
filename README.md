@@ -2,7 +2,7 @@
   
 <img align="center" src="https://user-images.githubusercontent.com/92191800/181153452-16a8ed27-ac3d-41e4-9939-61fa9d7e6176.gif">
   
-  <h3 align="center">Atualmente estou me especializando em:</h3>
+  <h3 align="center">I am currently specializing in :</h3>
   
  ##
   
