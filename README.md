@@ -23,7 +23,11 @@
   <a href=""><img align="center" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
   <a href=""><img align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     
-    ##
+
+    
+    
+   
+    
 <p align="center">
   <img src="https://github.com/secyz/secyz/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
