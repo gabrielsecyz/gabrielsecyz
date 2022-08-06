@@ -39,7 +39,7 @@
   
   ##
   
-   <div align="center">
+   <div href="" align="center">
   <h2>contact me:</h3>
-  <a href="sendmail:secyz.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/secyz"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     </div>
