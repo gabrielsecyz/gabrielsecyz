@@ -21,13 +21,13 @@
  
   ##
   
-  <h1 align="center">currently studying :<h1/>
+  <h3 align="center">currently studying :<h3/>
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 
-
+##
  
 <p align="center">
   <img src="https://github.com/secyz/secyz/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
