@@ -7,6 +7,6 @@
 <br>
 
 
-- 🍃 experience with  **Javascript | Node.js | Python | MySQL | Linux** <img align="right" src="https://user-images.githubusercontent.com/92191800/192166617-23f15011-f63a-4078-9115-043d9d5d5c24.png" width="400px">
+- 🍃 experience with  **Javascript | Node.js | Python | Mysql | Linux** <img align="right" src="https://user-images.githubusercontent.com/92191800/192166617-23f15011-f63a-4078-9115-043d9d5d5c24.png" width="400px">
 - 🎲 currently studying  **php | Java | C/C++ | C#**
 - 🌎 Brazil
